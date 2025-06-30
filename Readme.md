@@ -14,8 +14,10 @@ Here is some functionality :
 - monitoring and profiles management
 - media upload system 
 - Notification System
-- live streaming 
+- live streaming
 
+## Demo 
+https://drive.google.com/file/d/1DKlHIicFcVBxGjCOo-oMnxdWyciB2ZZx/view?usp=sharing
 
 ## Features
 ### 1. User management system 
